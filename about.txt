@@ -1,1 +1,15 @@
-I entered the world of front-end development by gaining some knowledge in HTML, CSS, and JavaScript. I used my knowledge of these languages, along with my new skills in VS Code, to build a landing page about Anthuriums. The page utilizes JavaScript functions to create user interaction.
+
+
+Overview
+
+I entered the world of front-end development by gaining some knowledge in HTML, CSS, and JavaScript.
+
+This project is a simple, interactive landing page designed to showcase information about something I'm passionate about. It uses basic HTML and CSS to create a visually appealing and user-friendly interface and JavaScript to create some basic use interaction.
+
+Features
+
+Responsive Design: The layout adapts to different screen sizes for a consistent experience on desktop and mobile devices.
+
+Clean Aesthetics: Styled with modern CSS to highlight Anthurium plant details in an engaging way.
+
+Lightweight: Built with minimal code for fast loading and easy maintenance.
